@@ -13,7 +13,7 @@
 | `foo([[7, 8], [3, 6], [2, 4]])` | `[[2, 6], [7, 8]]` |
 | `foo([[3, 6], [3, 4], [15, 20], [16, 17], [1, 4], [6, 10], [3, 6]])` | `[[1, 10], [15, 20]]` |
 
-L'exercice, si vous l'acceptez, serait d'aider Echo à comprendre ce que fait cette fonction et à la recoder. Vous êtes partant ? ;)
+Le challenge, si vous l'acceptez, serait d'aider Echo à comprendre ce que fait cette fonction et à la recoder. Vous êtes partant ? ;)
 
 ### Question 1
 
@@ -29,4 +29,4 @@ Précisez en combien de temps vous avez implémenté cette fonction.
 
 ## Merci
 
-Par avance, un grand merci pour le temps que vous consacrerez à cet exercice, en espérant vous voir rejoindre très prochainement notre équipe ;) 
+Par avance, un grand merci pour le temps que vous consacrerez à ce challenge, en espérant vous voir rejoindre très prochainement [nos équipes](https://www.globalis-ms.com/jobs/) ;) 
