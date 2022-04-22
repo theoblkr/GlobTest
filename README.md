@@ -19,6 +19,8 @@ Le challenge, si vous l'acceptez, serait d'aider Echo à comprendre ce que fait 
 
 Expliquez, en quelques lignes, ce que fait cette fonction.
 
+- Cette fonction prend en paramètre une liste d'intervalles triées ou non triées et renvoie les plus grands intervalles de telle sorte qu'elles ne se chevauchent pas.
+Exemple : `[[0, 3], [2, 4]]` renvoie `[[0, 4]]` car les intervalles se chevauchent alors que `[[0, 7], [9, 14]]` renvoie `[[0, 7], [9, 14]]`
 ### Question 2
 
 Codez cette fonction.
@@ -28,10 +30,12 @@ Merci de fournir un fichier contenant :
 - l'appel de la fonction, avec un jeu de test en entrée,
 - l'affichage du résultat en sortie.
 
+<ins>Voir le fichier `index.js`</ins>
+
 ### Question 3
 
 Précisez en combien de temps vous avez implémenté cette fonction.
-
+- J'ai mis 1h30 pour implémenter cette fonction
 ## Merci
 
 Par avance, un grand merci pour le temps que vous consacrerez à ce challenge, en espérant vous voir rejoindre très prochainement [nos équipes](https://www.globalis-ms.com/jobs/) ;) 
